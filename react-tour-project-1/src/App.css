@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* ******NAVBAR****** */
+.navlar {
+  background-color: #F2EDE4;
+  height: 60px;
+}
+
+.navlink{
+  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* font-family: cursive; */
+}
+
+.carousel{
+  margin-bottom: 90px;
+}
+
+#about{
+  margin-bottom: 90px;
+}
+
+.section {
+  margin-bottom: 100px;
+}
+.card {
+  border-radius: 50px;
+}
+
+.detay {
+  background-color: #335572;
+  color: white;
+  font-weight: 900;
+  border: none;
+}
+
+ 
+
+
+
+#contact {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.contact {
+  margin-top: 50px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 5px;
+  padding-left: 15px;
+  font-size: 1.1rem;
+}
+
+#button{
+  width: 150px;
+  height: 45px;
+  background-color: #335572;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+#submit {
+  width: 150px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.footer{
+  height: 310px;
+  background-color: #F2EDE4;
+}
+.container{
+  padding-top: 50px;
+}
+
+#logo{
+  margin-left: 120px;
+}
+
+input{
+  background-color: transparent;
+}
+
+
+
+#sirket{
+  margin-left: 200px;
+}
+
+#turlar{
+  background-color: #f1f1f1;
+}
